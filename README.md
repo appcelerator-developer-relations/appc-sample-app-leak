@@ -1,18 +1,13 @@
-Welcome to your Appcelerator Titanium Mobile Project
+# Titanium Sample: Memory Management and Finding Leaks
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+An example project demonstrating a possible app-leak. Part of the ["Managing Memory and Finding Leaks"](https://wiki.appcelerator.org/display/guides2/Managing+Memory+and+Finding+Leaks) guide.
 
-
-
-----------------------------------
-Stuff our legal folk make us say:
+## Legal
 
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
 
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
+Titanium is Copyright (c) 2009-present by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
-
